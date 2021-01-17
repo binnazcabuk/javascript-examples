@@ -1,0 +1,32 @@
+div#kapsayici{
+    width: auto;
+    background-color: rgb(31, 160, 6);
+    margin-top: 25px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    transition: all 2s;
+    
+}
+div#bitis{
+    width: 30px;
+    height: 463px;
+    position: relative;
+    float: right;
+    background-color: black;
+    margin-right: 10px;
+}
+button{
+    width: 150px;
+    height: 75px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+p{
+font-size: 20px;
+margin-bottom:10px;
+padding-top: 20px;
+color: cornsilk;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
