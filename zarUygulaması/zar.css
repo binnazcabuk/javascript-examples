@@ -1,0 +1,69 @@
+body{
+    background-color: papayawhip;
+}
+#skorKapsayici{
+    display: inline-block;
+    height: auto;
+    width: auto;
+    background-color: snow;
+    box-shadow: 10px 10px whitesmoke;
+
+}
+#skorKapsayici div{
+    width: 100px;
+    height: 150px;
+    float: left;
+    margin: 8px;
+}
+#skorbir{
+    background-color:rgb(210, 226, 118);
+}
+#skoriki{
+    background-color: darkseagreen;
+}
+div span:nth-child(1){
+    font-family:  Geneva;
+    font-size: 18px;
+ 
+    font-weight: bold;
+}
+#skorKapsayici div span:nth-child(4){
+    font-family: Geneva;
+    font-size: 36px;
+    display: block;
+    font-weight: bold;
+    margin-top: 40px;
+}
+#oyunalani div{
+    width: 300px;
+    height:250px;
+    text-align: center;
+   
+
+}
+#oyunalani{
+    display: flex;
+    justify-content: space-around;
+    width: auto;
+    height: auto;
+    margin-top: 100px;
+}
+#oyuncu1{
+    background-color:rgb(210, 226, 118);
+}
+#oyuncu2{
+    background-color:  darkseagreen;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+button{
+    width: 100px;
+    height: 20px;
+    border-radius: 10px;
+    outline: none;
+    font-family:  Geneva;
+    color: black;
+    background-color: rgb(197, 228, 228);
+}
